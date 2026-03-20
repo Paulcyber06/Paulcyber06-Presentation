@@ -42,13 +42,13 @@ in a production environment.
 ## 📜 Certifications
 | Certification | Date |
 |---|---|
-| Microsoft Sentinel SC-200 | July 2026 |
-| BTL1 – Blue Team Level 1 | June 2026 |
-| TryHackMe – SOC Level 1 Path | May 2026 |
-| CompTIA Security+ | April 2026 |
+| Microsoft Sentinel SC-200 | In progress |
+| BTL1 – Blue Team Level 1 | In progress |
+| TryHackMe – SOC Level 1 Path | Earned |
+| CompTIA Security+ | In progress |
 | Splunk Core Certified User | March 2026 |
-| TryHackMe – Pre Security Path | February 2026 |
-| Cisco – Networking Basics | January 2026 |
+| TryHackMe – Pre Security Path | Earned |
+| Cisco – Networking Basics | Earned |
 
 
 
@@ -60,4 +60,6 @@ in a production environment.
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)
 ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=flat&logo=microsoft&logoColor=white)
+![CrowdStrike](https://img.shields.io/badge/CrowdStrike%20Falcon-E0271D?style=flat&logo=crowdstrike&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ---
