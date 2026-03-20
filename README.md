@@ -17,7 +17,7 @@ who made a deliberate transition into cybersecurity after relocating
 to Australia. Self-directed reconversion through structured learning 
 paths, hands-on home lab practice, and industry-recognised certifications.
 
-Currently seeking a Junior SOC Analyst opportunity where I can contribute 
+Currently seeking a SOC Analyst opportunity where I can contribute 
 operationally while developing my incident response and monitoring skills 
 in a production environment. 
 
