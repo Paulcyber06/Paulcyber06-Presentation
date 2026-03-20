@@ -1,4 +1,4 @@
-# Paul C. | Junior SOC Analyst 🛡️
+# Paul C. | SOC Analyst Level 1 🛡️
 
 🔵 Blue Team enthusiast | Career changer transitioning into cybersecurity
 📍 Sydney, NSW
