@@ -46,7 +46,7 @@ in a production environment.
 | BTL1 – Blue Team Level 1 | In progress |
 | TryHackMe – SOC Level 1 Path | Earned |
 | CompTIA Security+ | In progress |
-| Splunk Core Certified User | March 2026 |
+| Splunk Core Certified User | In progress |
 | TryHackMe – Pre Security Path | Earned |
 | Cisco – Networking Basics | Earned |
 
