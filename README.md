@@ -1,7 +1,6 @@
 # Paul C. | SOC Analyst Level 1 🛡️
 
 🔵 Blue Team enthusiast | Career changer transitioning into cybersecurity
-📍 Sydney, NSW
 
 📜 BTL1 | CompTIA Security+ | Splunk Core Certified | TryHackMe SOC L1 | Microsoft Sentinel
 
@@ -12,14 +11,11 @@
 ## 🧠 About Me
 
 
-Motivated career changer with 8+ years in commercial operations, 
-who made a deliberate transition into cybersecurity after relocating 
-to Australia. Self-directed reconversion through structured learning 
-paths, hands-on home lab practice, and industry-recognised certifications.
+Motivated and disciplined professional with 8+ years of experience in automotive commercial operations, now fully committed to a career transition into cybersecurity.
 
-Currently seeking a SOC Analyst opportunity where I can contribute 
-operationally while developing my incident response and monitoring skills 
-in a production environment. 
+I am currently completing recognised certifications including BTL1, CompTIA Security+, Splunk Core Certified User ; built a home lab where I practice real-world scenarios using platforms and tools such as Microsoft Sentinel, CrowdStrike Falcon and Wireshark.
+
+Seeking a SOC Analyst role where I can contribute to SIEM operations, alert triage, and incident response within a production environment. 
 
 
 
