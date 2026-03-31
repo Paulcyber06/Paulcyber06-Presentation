@@ -16,7 +16,7 @@ Je recherche un poste d'Analyste SOC afin de contribuer aux opérations SIEM, au
 
 ## 📜 Certifications
 
-| Certification | Date |
+| Certification | Date d'Obtention |
 |---|---|
 | BTL1 – Blue Team Level 1 | En cours |
 | Splunk Core Certified User | En cours |
