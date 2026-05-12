@@ -1,4 +1,4 @@
-# Paul C. | Analyste SOC Niveau 1 🛡️
+# Paul Cyber | Analyste SOC Niveau 1 🛡️
 🔵 Passionné de Blue Team | Reconversion professionnelle vers la cybersécurité
 📜 BTL1 | Splunk Core Certified | TryHackMe SOC L1 |
 
