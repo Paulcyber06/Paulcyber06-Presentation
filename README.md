@@ -1,5 +1,5 @@
 # Paul Cyber | Analyste SOC Niveau 1 🛡️
-🔵 Passionné de Blue Team | Reconversion professionnelle vers la cybersécurité
+🔵 Blue Team | Reconversion professionnelle vers la cybersécurité
 📜 BTL1 | Splunk Core Certified | TryHackMe SOC L1 |
 
 ---
@@ -19,7 +19,7 @@ Je recherche un poste d'Analyste SOC afin de contribuer aux opérations SIEM, au
 | Certification | Date d'Obtention |
 |---|---|
 | BTL1 – Blue Team Level 1 | Prévu Mai |
-| Splunk Core Certified User | Prévu Mai |
+| Splunk Core Certified User | Prévu Juin |
 | TryHackMe – Parcours SOC Niveau 1 | 2026 |
 | TryHackMe – Parcours Pre-Security | 2026 |
 | Cisco – Networking Basics | 2026 |
