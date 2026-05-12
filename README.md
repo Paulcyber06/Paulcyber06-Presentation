@@ -18,9 +18,8 @@ Je recherche un poste d'Analyste SOC afin de contribuer aux opérations SIEM, au
 
 | Certification | Date d'Obtention |
 |---|---|
-| BTL1 – Blue Team Level 1 | Prévu Avril |
+| BTL1 – Blue Team Level 1 | Prévu Mai |
 | Splunk Core Certified User | Prévu Mai |
-| CompTIA Security+ | Prévu Juin |
 | TryHackMe – Parcours SOC Niveau 1 | 2026 |
 | TryHackMe – Parcours Pre-Security | 2026 |
 | Cisco – Networking Basics | 2026 |
