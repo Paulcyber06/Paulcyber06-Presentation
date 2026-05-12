@@ -8,7 +8,7 @@
 
 Professionnel motivé et rigoureux, fort de plus de 8 ans d'expérience dans les opérations commerciales automobiles, désormais pleinement engagé dans une reconversion vers la cybersécurité.
 
-Je prépare actuellement plusieurs certifications reconnues, dont BTL1, Splunk Core Certified User et CompTIA Security+. 
+Je prépare actuellement plusieurs certifications reconnues, dont BTL1 et Splunk Core Certified User. 
 
 Je recherche un poste d'Analyste SOC afin de contribuer aux opérations SIEM, au triage d'alertes et à la réponse aux incidents dans un environnement de production.
 
