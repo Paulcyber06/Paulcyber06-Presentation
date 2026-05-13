@@ -6,9 +6,9 @@
  
 ## 🧠 À propos de moi
  
-Professionnel motivé et rigoureux, fort de plus de 8 ans d'expérience dans les opérations commerciales, désormais pleinement engagé dans une reconversion vers la cybersécurité.
+Professionnel motivé et rigoureux, fort de plus de 8 ans d'expérience dans les opérations commerciales, je suis désormais pleinement engagé dans une reconversion vers la cybersécurité.
  
-Ce portfolio présente mon travail en Blue Team — j'ai reconstitué une chaîne d'attaque complète avec Wireshark, Splunk et MITRE ATT&CK, de l'accès initial jusqu'à la détection et la réponse.
+Ce portfolio présente mon travail en autodidacte, reproduisant les étapes d'une Blue Team — j'ai reconstitué une chaîne d'attaque complète avec Wireshark, Splunk et MITRE ATT&CK, de l'accès initial jusqu'à la détection et la réponse.
  
 Je recherche un poste d'Analyste SOC afin de contribuer aux opérations SIEM, au triage d'alertes et à la réponse aux incidents dans un environnement de production.
  
