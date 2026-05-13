@@ -6,7 +6,7 @@
 
 ## 🧠 À propos de moi
 
-Professionnel motivé et rigoureux, fort de plus de 8 ans d'expérience dans les opérations commerciales automobiles, désormais pleinement engagé dans une reconversion vers la cybersécurité.
+Professionnel motivé et rigoureux, fort de plus de 8 ans d'expérience dans les opérations commerciales, désormais pleinement engagé dans une reconversion vers la cybersécurité.
 
 Je prépare actuellement plusieurs certifications reconnues, dont BTL1 et Splunk Core Certified User. 
 
