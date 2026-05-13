@@ -10,6 +10,8 @@ Professionnel motivé et rigoureux, fort de plus de 8 ans d'expérience dans les
 
 Je prépare actuellement plusieurs certifications reconnues, dont BTL1 et Splunk Core Certified User. 
 
+Ce portfolio retrace une attaque complète de bout en bout : Initial Access (Phishing), Network Analysis (Wireshark), SIEM Detection (Splunk) et MITRE ATT&CK Mapping. Chaque article est une étape d'une kill chain réelle.
+
 Je recherche un poste d'Analyste SOC afin de contribuer aux opérations SIEM, au triage d'alertes et à la réponse aux incidents dans un environnement de production.
 
 ---
