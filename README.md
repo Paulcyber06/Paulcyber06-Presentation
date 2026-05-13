@@ -1,6 +1,6 @@
 # Paul Cyber | Analyste SOC Niveau 1 🛡️
 🔵 Blue Team | Reconversion professionnelle vers la cybersécurité
-📜 BTL1 | Splunk Core Certified | TryHackMe SOC L1 |
+📜 BTL1 - Blue Team Level 1 | Splunk Core Certified | TryHackMe SOC L1 |
 
 ---
 
