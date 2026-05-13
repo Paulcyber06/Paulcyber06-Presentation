@@ -10,7 +10,7 @@ Professionnel motivé et rigoureux, fort de plus de 8 ans d'expérience dans les
  
 Ce portfolio présente mon travail en autodidacte, reproduisant les étapes d'une Blue Team — j'ai reconstitué une chaîne d'attaque complète avec Wireshark, Splunk et MITRE ATT&CK, de l'accès initial jusqu'à la détection et la réponse.
  
-Je suis actuellement à la recherche un poste d'Analyste SOC afin de contribuer aux opérations SIEM, au triage d'alertes et à la réponse aux incidents dans un environnement de production.
+Je suis actuellement à la recherche d'un poste d'Analyste SOC afin de contribuer aux opérations SIEM, au triage d'alertes et à la réponse aux incidents dans un environnement de production.
  
 ---
  
