@@ -22,7 +22,7 @@ Une série de 7 épisodes reconstituant une attaque complète de bout en bout �
 | Épisode | Article | Outil | MITRE |
 |---------|---------|-------|-------|
 | [E1](https://github.com/Paulcyber06/E1-Phishing-Proton-Brand-Impersonation) | Phishing — Usurpation de la Marque Proton | Email Analysis | T1566 |
-| [E2](https://github.com/Paulcyber06/E2-Splunk-Reconnaissance-Detection) | Détection d'une Reconnaissance Web | Splunk | T1083 |
+| [E2](https://github.com/Paulcyber06/E2-Splunk-Recognition-Detection) | Détection d'une Reconnaissance Web | Splunk | T1083 |
 | [E3](https://github.com/Paulcyber06/E3-Splunk-Behavioral-Analysis) | Analyse Comportementale d'une IP Suspecte | Splunk | T1083 |
 | [E4](https://github.com/Paulcyber06/E4-Splunk-Dashboard-and-Alerts) | Dashboard de Surveillance & Alertes | Splunk | — |
 | [E5](https://github.com/Paulcyber06/E5-Wireshark-FTP-Brute-Force) | Détection d'un Brute Force FTP | Wireshark | T1110 |
