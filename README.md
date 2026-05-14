@@ -16,6 +16,8 @@ Je suis actuellement à la recherche d'un poste d'Analyste SOC afin de contribue
 
 ## 🔍 Portfolio — Investigation Buttercup Games
 
+Une série de 7 épisodes reconstituant une attaque complète de bout en bout — du phishing initial jusqu'au déploiement d'un webshell, détectée et documentée avec les outils du SOC.
+
 <div align="center">
 <br>
 
@@ -23,8 +25,6 @@ Je suis actuellement à la recherche d'un poste d'Analyste SOC afin de contribue
 
 <br>
 </div>
-
-Une série de 7 épisodes reconstituant une attaque complète de bout en bout — du phishing initial jusqu'au déploiement d'un webshell, détectée et documentée avec les outils du SOC.
 
 <div align="center">
 
