@@ -17,9 +17,11 @@ Je suis actuellement à la recherche d'un poste d'Analyste SOC afin de contribue
 ## 🔍 Portfolio — Investigation Buttercup Games
 
 <div align="center">
+<br>
 
-[![🔍 Démarrer l'enquête — Épisode 1](https://img.shields.io/badge/🔍%20Démarrer%20l'enquête-Épisode%201-blue?style=for-the-badge)](https://github.com/Paulcyber06/E1-Phishing-Proton-Brand-Impersonation)
+[![🔍 DÉMARRER L'ENQUÊTE](https://img.shields.io/badge/🔍%20DÉMARRER%20L'ENQUÊTE-Épisode%201%20→-red?style=for-the-badge&logoColor=white)](https://github.com/Paulcyber06/E1-Phishing-Proton-Brand-Impersonation)
 
+<br>
 </div>
 
 
