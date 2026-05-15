@@ -39,7 +39,9 @@ Cette enquête est une série de 7 épisodes reconstituant une attaque de bout e
 | [E7](https://github.com/Paulcyber06/E7-MITRE-ATT-CK-Full-Attack-Chain) | MITRE ATT&CK — Kill Chain Complète | Rapport d'escalade | T1566 → T1505 |
 
 </div>
+
 <br>
+
 ---
 
 ## 📜 Certifications
