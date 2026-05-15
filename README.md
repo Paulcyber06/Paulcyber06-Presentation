@@ -8,7 +8,7 @@
 
 Professionnel motivé et rigoureux, fort de plus de 8 ans d'expérience dans les opérations commerciales, je suis désormais pleinement engagé dans une reconversion vers la cybersécurité.
 
-Ce portfolio présente mon travail en autodidacte, reproduisant les étapes d'une Blue Team. J'ai reconstitué une chaîne d'attaque complète avec Wireshark, Splunk et MITRE ATT&CK, de l'accès initial jusqu'à la détection et la réponse.
+Ce portfolio présente mon travail en autodidacte, reproduisant les étapes d'une Blue Team en situation réelle. J'ai reconstitué une chaîne d'attaque complète avec Wireshark, Splunk et MITRE ATT&CK, de l'accès initial jusqu'à la détection et la réponse.
 
 Je suis actuellement à la recherche d'un poste d'Analyste SOC afin de contribuer aux opérations SIEM, au triage d'alertes et à la réponse aux incidents dans un environnement de production.
 
@@ -16,7 +16,7 @@ Je suis actuellement à la recherche d'un poste d'Analyste SOC afin de contribue
 
 ## 🔍 Portfolio — Investigation Buttercup Games
 
-Une série de 7 épisodes reconstituant une attaque complète de bout en bout, du phishing initial jusqu'au déploiement d'un webshell, détectée et documentée avec les outils d'un centre d'opérations de sécurité.
+Cette enquête est une série de 7 épisodes reconstituant une attaque de bout en bout, c'est à dire du phishing initial jusqu'au déploiement d'un webshell, détectée et documentée avec les outils d'un centre d'opérations de sécurité.
 
 <div align="center">
 <br>
